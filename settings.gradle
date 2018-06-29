@@ -1,0 +1,5 @@
+rootProject.name = 'repro'
+include 'buildSrc'
+include 'app'
+include 'lib'
+
